@@ -1,0 +1,20 @@
+{
+  "easyGoVersion": "1.0",
+  "client": "com.ymr.huaweiorientation",
+  "logicEntities": [
+    {
+      "head": {
+        "function": "magicwindow",
+        "required": "true"
+      },
+      "body": {
+        "mode": "1",
+        "supportVideoFullscreen": "true",
+        "UX": {
+          "supportRotationUxCompat": "false",
+          "isDraggable": "true"
+        }
+      }
+    }
+  ]
+}
